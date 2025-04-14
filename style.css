@@ -11,7 +11,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: left;
 }
 
 .banner video{
@@ -28,7 +28,7 @@
     font-family: "easvhs";
     color: darkgray;
     position: relative;
-    right: 390px;
+    right: 135%;
     text-align: center;
     text-decoration: none;
 }
@@ -38,11 +38,11 @@ h1 a:hover{
 }
 
 body{
-    align: center;
+    box-align: center;
 }
 
 .logo{
     z-index: 3;
     position: relative;
-    right : 390px;
+    right : 140%;
 }
