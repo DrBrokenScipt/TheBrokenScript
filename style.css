@@ -28,9 +28,10 @@
     font-family: "easvhs";
     color: darkgray;
     position: relative;
-    right: 135%;
+    right: 70%;
     text-align: center;
     text-decoration: none;
+    font-size: 120%;
 }
 
 h1 a:hover{
@@ -44,5 +45,5 @@ body{
 .logo{
     z-index: 3;
     position: relative;
-    right : 140%;
+    right : 75%;
 }
